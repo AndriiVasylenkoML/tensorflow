@@ -6,6 +6,8 @@ Learn everything to demystify machine learning, from the first principles in the
   2. lab2_computer_vision.ipynb
   3. lab3_what_are_convolutions.ipynb
   4. lab4_using_convolutions.ipynb
+  5. lab5_using_convolutions_with_complex_images.ipynb
+  6. lab6_cats_v_dogs.ipynb
 
 ### References:
 1. [Program neural networks with TensorFlow](https://developers.google.com/learn/pathways/tensorflow)
